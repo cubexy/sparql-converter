@@ -1,0 +1,4 @@
+1. https://www.snik.eu/sparql
+2. Timeout auf 10000 setzen
+3. Query einfügen
+4. "Run Query"
