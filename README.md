@@ -1,4 +1,4 @@
 # sparql-converter
-Teil der besonderen Lernleistung von Max W. 
+Besondere Lernleistung von Max W (BeLL)
 
 Intern betreut von H. Haase am Wilhelm-Ostwald-Gymnasium.
